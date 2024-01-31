@@ -1,0 +1,205 @@
+SEO
+
+1 = On-Page SEO		: A Content Written How much its weightage and importance (how to 				     	 cover that topic )
+2 = OFF-PAGE SEO		: outside website linked
+3 = TECHINICAL SEO		: speed of our website ,load , responsive 
+
+Q :What is  ON-PAGE SEO ?
+A :
+Q :Important elements to consider in ON-PAGE SEO?
+A :
+Q : KeyWORD Research
+InBound Linking
+OutBound Linking
+Imp of META TAGS 
+Content Coverage ➡️  ( High Qulaity Pages/qulaity over quantity  ) (keyword cannibalization)
+Eg : Like in Pic 
+Make Different Pages which helps your Buiness
+ 
+High Keyword density is a MYTH , Does not work
+User Experience 	: Mtlb phone py b website sahi nazar ani chye (easy to read ho easy to understand  ) Means on all GDGETS easy to fit .
+Know your Audience 	: Content coverage  k lie diversified topics kdr sy  mily gy   is website sy		  (website= answerthepublic.com )
+Keywords Long Tail Vs Short  Tail:  
+website Speed	: agr website wordpress sy bni h to us  mn sy un necessary plugins themes wgra dell kry or speed increase kry 
+Responsive Website 
+Link Building 	: 
+User Engagement Tactics    :  mtlb user  ktni dair apki website py time spend krta h mtlb 1 page  sy dusra 3sra  utna  e hmri website hamri rank hogi  
+
+Q : What is keyword research  in ON-PAGE SEO ? 
+A : 
+Google Keyword Planner = SEMRUSH  ,  ahrefs   , 
+or : ubersuggest (seo and keyword discovery )[chrome extension]
++
+If we want to rank our website then  goto neilpatil on chrome buy simple package and ranked.
+Goto neilpatil keyword research then keyword ideas then search eg  : freelancing  
+Select those jo green hon or phr excel file bana ly esy :
+ 
+K in topics k lie knsy keywords achy rhy gy ye neilpatil sy aye h 
+
+Q:   What is user search intent?
+
+Q: How to know your competitors for the keywords?
+
+
+Kssi b website ka data janny k lie website h : SIMILARWEB.COM udr search krna h 
+
+Better content , good keyword , engaging content 
+Keyword analysis  , search intent 
+1 = Know your keywords 2 = understand search intent  then 3rd = know your competitors
+Google trends lazmi dekhna  h  it tells their key words  popularity if it dip(drop ) to sup y kam krny ki zra  b zururat nai h time waste krna h. or agr line consistent h upper nechy ho ri h to km kiya jaa skta h 
+1 TOPIC  1Blog Post sy zaidda nai hona chye 
+ eg: 	how to get orders on fiver ? Then iska 1 hi topic hoga blog py mtlb a to z sb kch .
+mtlb is qs k andr esy different  topics aa skty h :
+what is freelancing , skills in demand  , market place , creating portfolio , win freelancing jobs   , fiver  ,upwark  like in this  picture .
+ 
+
+Then Know Your Pages Before you start writing the content  different keywords ko different pages or different topics py cover kiya h.
+How to get good seo traffic without  spending a time = Engaging Content
+
+
+How  to  find topics for your content on website?
+
+Website h jdr sy search krna h = answer the public   ye website khol k topic search krna h or circle mn qs /  ans mill jaye gy . ya 1 or h QUORA.com  search kr k qs section mn jaa k b qs ans mill jye gy.
+
+
+
+
+Practically Start On-Page Seo 
+ 1 = Include main keyword in title 
+2 = Short URL 
+3 = Meta Description :  title , description , or focus keywords.
+4 = Inbound /Outbound Linking 
+5 = Image optimization 
+6 = User Readability Optimization 
+IMP role on on-page seo: title , description, sub-heading, text , font , Image Optimization
+Title or url thora different hona chye   eg= agr title h  k top 10 freelancing websites in Pakistan
+Variation lani h url or description(short ) mn hamesha 
+Plugin = All in one seo Plugin  (AIOSEO)
+
+
+
+
+
+
+
+
+Ey ye pic mn jesy title description
+Then us k nechy URL jo k small hona chye 
+
+ 
+
+IMAGE Optimization: 1 = File Name of Image   2 = ALT Attribute (mtlb k google usko kesy prhta h ) 
+3 = Optimized Image Size   (1.2mB b bht bra size h pic k lie then usko km krny k lie goto CANVA.COM  create  a design then custom size like 550x330 and image ka name rkhna h jesy pic mn h upper like data entry job then share and download jpg file  )  or usk agy  ALT Text hota h udr lazmi likhna h relevant 
+Eg: Goto Pexel.com	
+Download images and use them in blog. 
+How to Write Content?
+	Suggested keywords dekhny h phr unka volume check krna h volume jinka 100 sy upper ho usko uthana h or wo chk b krna h k green area mn fall k raha ho us py kam start krna h 
+	Or agr Uber suggest ka paid version liya h to goto our tool and start py click krna h or wo word dalna h or start sb kch wo khud kry ga like phly wo page title daly ga after title wo apko meta title py ly jaye ga or select krni h then goto heading jtni mrzi wo select krly then page ban Jaye ga then sara copy krna then goto our WordPress k dashboard.
+
+Keyword research for free
+What where why when how freelance / anything 
+Phly in dono sy search kro then 3rd sy uska volume nikal k use kr skty h or agr paid and best lena h to //neilpatil sy ly skty 
+Websie = keyword.io (https://www.keyword.io/tool/google-longtail-finder?q=freelance&audience=en-us)
+2nd= https://keywordsheeter.com/
+3rd= Keyword ka volume esy find krty h (https://ahrefs.com/keyword-difficulty) edr sy 
+Then Keyword ka trend mtlb line jo kb kb grow hui ya down hui lazmi chk krna h 
+4th = https://trends.google.com/trends/explore?geo=PK&q=freelacing&hl=en-GB   (word apni mrzi ka )
+
+
+OF-PAGE SEO
+Get Recommendations from recommended sites:
+Google sees that ap khud ktni authority hn (SUBJECT MATTER EXPERT) and 2nd k log apko ktna endorse kr rahy hn (mtlb recommend )kr rahy hn.
+BACKLINKS: ka mtlb h k koi or blog post us content mn link py click krny sy ap ki trf traffic bhj ra h (mtlb k wo apko endorse(Appriciate) kr rahy hn )  agr apki back linking achi website sy aa rahi ho to good h .
+Eg = 1 – 100 Ranking h aik jisko hm PAGE  AUTHORITY khty hn DOMAIN AUTHORITY  (PA ya DA ) 1 Parameter h wo parameter jtna high hoga utni hi bri site h  like 70+ sites apko appreciate krdy means google smjhy ga k bri sites isko recommend kr rahi h isko rank kro. Backlinking high DOMAIN AUTHORITY sy aa rahi hoo to kam asan hoga . 
+1 website b h =BACKLINKO smjh a ski h.
+Agr Hm  Content ki bat kry to wo content ko link kiya  jata h apki website sy
+Anchor Text Types = Exact Match (Eg = Make Money Freelancing -> ye key word h is pury keyword  ko as a anchor text dy dia h ), Partial Match (Eg = want to make money as a freelancer), Direct Brand Name(Eg = Amazon) , URL (Eg = Nicket link -> Url Direct provide krna ), Read More – Click Here
+
+1st =  Anchor Link = 
+2nd = Do Follow  = means k ap google ko ye hint/Instruction dy rahy h  k points forward krdo jab hm bat krty hn h PA ki to wo bht elements ko determine krta h  ye jo authority 1-100 k drmiyan h un k  number mn kaha jye gi.  DoFollow Mtlb k hm points dy rahy h agli site ko ya points ly rahhy h us site sy Google isko ranking mn count krta h 
+3rd = No Follow Links = Reverse of DoFollow Link but it gives referral links 
+Backlinking mn 1st thing 
+Guest Posting:	(free hoti h ye hmehsa)
+		Mtlb ksi ki website py ja k usk lie content likhna or us sy puch lena h k sir me apki site sy DoFollow (Backlink )link ly lu? 
+2nd method = Goto Google Search  :  		freelancing  blogs “Submit  a guest post ”
+Back link  k lie ksi ko approach krny ka  lie ya to website py ja  k usk social icons sy usko msg kr do yar to 1 website h 			https://hunter.io/ or udr usko mail kr deni h specific  blog ko mention kr k .
+2nd method = goto 		Contactout.com 
+Ab hmy janna h k site ka owner kon  h usk lie site ka link copy krna h to google py ja k website ka name likhna h eg = propakistani.com owner  esy likh dena h 
+
+How to get backlinking from forms ->  
+
+
+Jo b topic h hmra like esy likhna  h  
+Freelancing “forum + niche”
+Then websites kholo or udr sign up kr k discussion section mn jao or udr  esy cmnt kr k bat start kro or  phr us sy backlinking ki bat kro  
+
+How to get backlinks from Resource Pages:
+Or easy way to get broken backlinks =  
+1st step = our niche + useful links = eg = “freelancing ” +  “useful/helpfull links ” (useful links mn hmny 1st chz jo dekhni h wo high domain authority honi chye)
+Resource Pages = 
+Three Steps :
+1st = Find relevant resource pages
+2nd = find the best fit content 
+3rd = reach out 
+
+ 
+Esy jesy k ye 4th num py  h to kaya or kesy search krna h = eg agr hm freelancing py km kr ry h to = freelance+”useful links” . 
+Jo b link khula or us bndy ko mail krni h to ye copy kr k kr do.
+ 
+Add chrome extension = check my links
+Eg = agr hm freelance +links search krty h or is extension ko use krty h to jo area red wala h wo hmra h hm usko use kr k broken links bhj skty h.
+Best way of getting back links = Guest Posting 
+Link Building Strategy using sky scrapper:
+		Already jo popular website h ya jb hm google py jo kch b search krty h or search results sy jo hmy websites nazar ati hn agr usko achy backlinks Mily Huy h or agr hm us popular website k backlinks steal krly to popular ho jaye ga .
+Ksi b website k words count krny k lie : = find website word count 
+Next = BLOG COMMENTING:
+Relevant Blog Posting =   search on google = our niche + blogs = eg= freelancing + blogs 
+Reverse image search = images.google.com ispy ja k agr ksi ny apki  to udr sy sb show ho jata h kis kis ny  apki apni images use ki hui h udr sy ya to unsy remove krwa skty h ya to backlink ly skty h 
+Blog commenting = 
+Social media profiles ko approach krny k 2 types hn= 1= jo hm daily use kr ry hn (like apni profiles py apni websites ka link dalna).
+ Which backlinks are not good? 
+There are 5 backlinks which are not good for our website.
+1st = Link Exchange 
+2nd = Low Quality FORUMS Low Domain Authority 
+3rd = Social Bookmarking 
+4th = Directory Submission (that accept without verification). you can submit with software (Google does not give them any weightage) wee need to focus on lesser quantity and high quantity.
+5th = Side Wide Links.
+Imp:
+	SILO STRUCTURE = 
+Silo means(apni hirarchi mn reh k inbound linking krty h )
+ 
+Agr hm SILO k Structure mn rhty h to we have a fair chance of making understand google that what we have done. Is pic ki best example ki website h propakistani.com
+1 category k andr sub categories like eg = freelacing = Digital Products , then youtube , then blogging  then in k andr insy relevant meterail add kry 
+
+
+
+Summerize form of Total SEO:
+   
+
+
+
+ 
+
+
+
+TECHNICAL SEO 
+
+Ismn hm sekhy gy k kesy website ko structure kry gy +responsiveness + website speed+ Domains ,SubDoamins
+Categories wise then images k khayal rkhna h k images kesy rkhni h big,small,etc
+Then Url + broken Images+ Double Domain Indexing +backlinking from websites (jinka spam xaida h )+ Google search Console +Google Analytics  +Indexing +Fast Indexing 
+Google local business = lazmi hona chye chye wo kuch b ho like kch b sale kr ry ho ya kch b ho local business must h. search on google = google local business 
+Three Elements Should be counted In Seo:
+A=User Experience:
+1=Bounce Rate                                                  2=Exit Rate 					3= Session Time 
+How to increase Session time and decrease bounce time ? 
+B= Website Design:
+		Color     ,    theme ,  pages , breadcrumb navigation , inner page linking
+Search = Google speed insight test 
+
+
+
+
+
+
+
+
